@@ -17,14 +17,14 @@ What i do
 
 - 🐘 Mostly my project using **PHP**, because it easy to deploy and my client want me to use it
 - 🐍 i Create **python** script to detect Nude picture based on the shape of body, i am not good in python, but i can debug and troubleshoot it.
-- 🐹 i create **golang** script for whatsapp sender server, forking for others dev, i am not good in Golang, but i can debug and troubleshoot it.
+- 🐹 i create **golang** script for whatsapp sender server, forking from others dev, i am not good in Golang, but i can debug and troubleshoot it.
 - 🤖 Mostly my Mobile Apps using **Android Java Native**
 - 🍏 iPhone Apps using **Flutter**, and swift for development plugin.
 - 🥞 Mostly i use **MYSQL/MARIADB**
 - 🥞 rarely using **PostgreSQL**, only 2 project i use it
 - 🥞 i user **Redis** and **ElasticSearch** for NOSQL database
 - 🐧 Mostly i manage server on my own, using **Ubuntu/Debian/Centos** and **VirtualMin** to manage webserver
-- 🐧 at work i use *AlibabaCloud** and **AWS**, personal i use **Digital Ocean**
+- 🐧 at work i use **AlibabaCloud** and **AWS**, personal i use **Digital Ocean**
 - 📶 Microservices project using **Docker**
 - 📒 at Work i use **Jira** for managing task, personal i use **Redmin**
 - ✈️ i create my own CI/CD using PHP. everytime developer push project to Git, my script will build APK, and send it to Telegram. and auto upload to PlayStore/Appstore when the Branch is Alpha/Beta/Master.
