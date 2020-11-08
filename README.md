@@ -2,6 +2,7 @@
 
 
 **Greetings** my name is **Ibnu Maksum** aka. ✨ **ibnux** ✨ i am Full Stack Engineer.
+currently residing in Gunung Sindur, Bogor. Near South Tangerang. Indonesia of course
 
 i am a troubleshooters guy, mostly solve IT Problem, Software or Hardware, my experience in coding, can make me to solve any Programming language bug.
 
