@@ -11,7 +11,7 @@ You can see my project in this github
 Here my Links:
 
 - 🤖 [Kang iBNuX - Play Store](https://play.google.com/store/apps/dev?id=7028897296910678679)
-- 🤖 [Petani Digital - Play STore](https://play.google.com/store/apps/developer?id=Petani+Digital)
+- 🤖 [Digitalisasi Kehidupan - Play STore](https://play.google.com/store/apps/dev?id=6617445721197545242)
 - 🍏 [Apple Store](https://apps.apple.com/gb/developer/ibnu-maksum/id451926282)
 
 What i do
