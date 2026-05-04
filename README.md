@@ -47,3 +47,4 @@ Contacts:
   - Twitter: **@ibnux**
   - Keybase: **@ibnux**
   - Linkedin: https://id.linkedin.com/in/ibnumaksum/
+  - PayPal: https://paypal.me/ibnux
