@@ -1,50 +1,141 @@
 ### Hi there 👋
 
+**Ibnu Maksum** — **AI-Augmented Full Stack Engineer**  
+*Gunung Sindur, Bogor — Indonesia*
 
-**Greetings** my name is **Ibnu Maksum** aka. ✨ **ibnux** ✨ i am Full Stack Engineer.
-currently residing in Gunung Sindur, Bogor. Near South Tangerang. Indonesia of course
+---
 
-i am a troubleshooters guy, mostly solve IT Problem, Software or Hardware, my experience in coding, can make me to solve any Programming language bug.
+### Professional Summary
 
-You can see my project in this github
+I am a versatile Full Stack Engineer with extensive experience in building and managing applications from end to end — covering **frontend**, **backend**, **mobile**, **desktop**, and **server infrastructure & networking**.
 
-Here my Links:
+Known as a strong problem solver, I excel at identifying, debugging, and resolving complex issues across both software and hardware. I currently leverage **AI** intensively to accelerate development, improve code quality, optimize architecture, and streamline deployment processes.
 
-- 🤖 [Kang iBNuX - Play Store](https://play.google.com/store/apps/dev?id=7028897296910678679)
-- 🤖 [Digitalisasi Kehidupan - Play STore](https://play.google.com/store/apps/dev?id=6617445721197545242)
-- 🍏 [Apple Store](https://apps.apple.com/gb/developer/ibnu-maksum/id451926282)
+### Tech Stack & Expertise
 
-What i do
+**Backend & Programming Languages**
+- **PHP** (Laravel / CodeIgniter) — Primary strength for rapid development and client projects
+- **Python** — Scripting, API development, Odoo customization, and computer vision
+- **Golang** — High-performance backend services (including WhatsApp Gateway)
+- Java (Android Native) & Flutter (Cross-platform Mobile & iOS)
 
-- 🐘 Mostly my project using **PHP**, because it easy to deploy and my client want me to use it, sometimes **PHP** only to proof **bussines logic** and then migrate it to Python or Golang.
-- 🐍 i Create **python** script to detect Nude picture based on the shape of body, create several script for API, and Odoo Modification, i am not good in python, but i can debug and troubleshoot it.
-- 🐹 i create **golang** script for whatsapp sender server, forking from others dev, and create several script for API, i am not good in Golang, but i can debug and troubleshoot it.
-- 🤖 Mostly my Mobile Apps using **Android Java Native**, some of them using **Flutter**.
-- 🍏 iPhone Apps using **Flutter**, and swift for development plugin.
-- 🔐 Mobile Security using **JWT** and **Obfuscating**.
-- 🥞 Mostly i use **MYSQL/MARIADB**.
-- 🥞 rarely using **PostgreSQL**, only 2 project i use it.
-- 🥞 i use **Redis** and **ElasticSearch** for NOSQL database.
-- 🥞 i use **Firebase** and **objectbox** for Mobile Database.
-- 🐧 Mostly i manage server on my own, using **Ubuntu/Debian/Centos** and **VirtualMin** to manage webserver, some  using **WHM/Cpanel**.
-- 🐧 at work i use **AlibabaCloud** and **AWS**, personal i use **Digital Ocean**, Rarely using Google Cloud.
-- 📶 Microservices project using **Docker**, mostly using **PHP**, **python**, and **golang**.
-- 📒 at Work i use **Jira** for managing task, personal i use **Redmin**.
-- ✈️ i create my own CI/CD using PHP. everytime developer push project to Git, my script will build APK, and send it to Telegram. and auto upload to PlayStore/Appstore when the Branch is Alpha/Beta/Master.
-- 💰 i Create my own **Cryptocurrency**, fork from NXT for **PoS**, and fork from LiteCoin for **PoW**, i know about blockchain and cryptocurrency, and how it works.
-- 🍓 some of my project i use **Raspberry PI** as server.
-- 🔐 i know about **IT Security**, Penetration system, i am Uncertified Ethical Hacker.
-- 🎛 Mostly i use **Mikrotik** for networking, and use mikrotik for some project.
-- 📉 Mostly my project using *git*, i host public git on Github, private git on Gitlab and Bitbucket. I manage how developer merge the project and do code review.
+**Frontend & Mobile Development**
+- Android (Java Native & Flutter)
+- iOS (Flutter & Swift plugins)
+- Web Frontend (HTML, CSS, JavaScript / TypeScript)
+
+**Databases & Storage**
+- MySQL / MariaDB (primary)
+- PostgreSQL, Redis, Elasticsearch
+- Firebase & ObjectBox (mobile)
+
+**Infrastructure & DevOps**
+- Server Management: Ubuntu, Debian, CentOS, Virtualmin, WHM/cPanel
+- Cloud Platforms: Alibaba Cloud, AWS, DigitalOcean
+- Containerization: Docker & Microservices
+- CI/CD: Custom pipeline (Git → Auto Build APK → Telegram notification → Play Store / App Store)
+- Networking: MikroTik and general network infrastructure
+
+**Additional Skills**
+- IT Security & Penetration Testing (Uncertified Ethical Hacker)
+- Blockchain & Cryptocurrency (Developed custom PoS and PoW coins)
+- Raspberry Pi projects
+- Task Management: Jira & Redmine
+- Version Control: Git (GitHub, GitLab, Bitbucket) with code review processes
+
+### Notable Projects & Achievements
+
+- **Mobile Applications**: Dozens of published apps on [Google Play Store](https://play.google.com/store/apps/dev?id=7028897296910678679) and [Apple App Store](https://apps.apple.com/gb/developer/ibnu-maksum/id451926282)
+- Built a custom **WhatsApp Gateway** using Golang
+- Developed a **Custom CI/CD Pipeline** for automated Android app building, distribution, and deployment
+- Created my own **Cryptocurrency** (forked from NXT for PoS and Litecoin for PoW)
+- Various digitalization projects and internal tools for companies
+
+I am highly adaptable to new technologies and environments, always focused on delivering effective, scalable, and maintainable solutions.
+
+---
+
+### Connect With Me
+
+- **Telegram**: [@ibnux](https://t.me/ibnux)
+- **X / Twitter**: [@ibnux](https://twitter.com/ibnux)
+- **LinkedIn**: [Ibnu Maksum](https://id.linkedin.com/in/ibnumaksum/)
+- **GitHub**: [github.com/ibnux](https://github.com/ibnux) *(please add your GitHub link)*
+- **PayPal**: [paypal.me/ibnux](https://paypal.me/ibnux)
+
+---
+
+Open to collaboration, freelance projects, or full-time opportunities.
 
 
- > I can adapt to new environment and new Technology, i can give solution, i am a troubleshooter, i like to find a bug and fix it, software development is never ending project, always fixing always improving.
-> A Company Hire me to manage and control from Frontend to Backend, to make sure all connected.
-> I create my own automation for building Android Apps and for deployment
+---
+---
 
-Contacts:
-  - Telegram: **ibnux**
-  - Twitter: **@ibnux**
-  - Keybase: **@ibnux**
-  - Linkedin: https://id.linkedin.com/in/ibnumaksum/
-  - PayPal: https://paypal.me/ibnux
+
+### Hi there 👋
+**Ibnu Maksum** — **AI-Augmented Full Stack Engineer**  
+*Gunung Sindur, Bogor — Indonesia*
+
+---
+
+### Professional Summary
+
+Saya adalah Full Stack Engineer yang berpengalaman membangun dan mengelola aplikasi dari ujung ke ujung — mulai dari **frontend**, **backend**, **mobile**, **desktop**, hingga **infrastruktur server dan jaringan**. 
+
+Saya dikenal sebagai problem solver yang kuat, mampu mengidentifikasi, mendebug, dan menyelesaikan berbagai permasalahan di tingkat software maupun hardware. Saat ini saya dibantu **AI** secara intensif untuk mempercepat pengembangan, meningkatkan kualitas kode, serta mengoptimalkan arsitektur dan deployment.
+
+### Tech Stack & Expertise
+
+**Backend & Programming Languages**
+- **PHP** (Laravel/CodeIgniter) — Core strength untuk rapid development & client projects
+- **Python** — Scripting, API development, Odoo customization, dan computer vision
+- **Golang** — High performance backend services (termasuk WhatsApp gateway)
+- Java (Android Native) & Flutter (Mobile & iOS)
+
+**Frontend & Mobile**
+- Android (Java Native & Flutter)
+- iOS (Flutter & Swift Plugin)
+- Web Frontend (HTML, CSS, JavaScript/TypeScript)
+
+**Database & Storage**
+- MySQL / MariaDB (primary)
+- PostgreSQL, Redis, Elasticsearch
+- Firebase & ObjectBox (mobile)
+
+**Infrastructure & DevOps**
+- Server Management: Ubuntu, Debian, CentOS, Virtualmin, WHM/cPanel
+- Cloud: Alibaba Cloud, AWS, DigitalOcean
+- Container: Docker & Microservices
+- CI/CD: Custom pipeline (Git → Build APK → Telegram → Play Store / App Store)
+- Networking: MikroTik, general network infrastructure
+
+**Other Skills**
+- IT Security & Penetration Testing
+- Blockchain & Cryptocurrency (membuat sendiri PoS & PoW coin)
+- Raspberry Pi projects
+- Task Management: Jira & Redmine
+- Version Control: Git (GitHub, GitLab, Bitbucket) + Code Review
+
+### Notable Projects & Achievements
+
+- **Mobile Applications**: Puluhan aplikasi di [Google Play Store](https://play.google.com/store/apps/dev?id=7028897296910678679) dan [Apple App Store](https://apps.apple.com/gb/developer/ibnu-maksum/id451926282)
+- Membangun **sistem WhatsApp Gateway** berbasis Golang
+- **Custom CI/CD Pipeline** otomatis untuk build, distribusi, dan deployment aplikasi
+- Pengembangan **Cryptocurrency** sendiri (fork NXT PoS & Litecoin PoW)
+- Berbagai proyek digitalisasi dan internal tools untuk perusahaan
+
+Saya sangat adaptif terhadap teknologi baru dan selalu fokus pada solusi yang efektif, scalable, serta maintainable.
+
+---
+
+### Connect With Me
+
+- **Telegram**: [@ibnux](https://t.me/ibnux)
+- **X / Twitter**: [@ibnux](https://twitter.com/ibnux)
+- **LinkedIn**: [Ibnu Maksum](https://id.linkedin.com/in/ibnumaksum/)
+- **GitHub**: [github.com/ibnux](https://github.com/ibnux) *(silakan tambahkan link GitHub Anda)*
+- **PayPal**: [paypal.me/ibnux](https://paypal.me/ibnux)
+
+---
+
+Terbuka untuk kolaborasi, proyek freelance, ataupun kesempatan full-time.
